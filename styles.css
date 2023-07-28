@@ -184,6 +184,7 @@ img {
   align-items: flex-start;
   font-size: 2rem;
   padding: 2rem 0.5rem;
+  text-align: start;
 }
 
 .tools {
